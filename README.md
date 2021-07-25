@@ -4,5 +4,5 @@ NB : ce support s'adapte au tube de 125mm déssiné par David Brégou qui est d�
 
 Le support et la bague de MAP sont à adapter selon le matériel.
 Nécessite :
-1 courroie 2GT de 200mm
+1 courroie 2GT de 200mm et
 le pilotage du moteur via Solex Focus
